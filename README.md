@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Duruwilly
 - 👀 I’m interested in improving my skills
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m a front end developer
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 you can reach me via email: Duruprincewilluzochukwu@gmail.com
 
