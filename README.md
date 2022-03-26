@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Duruwilly
-- 👀 I’m interested in improving my skills
-- 🌱 I’m a front end developer
-- 💞️ I’m looking to collaborate on web development projects
+- 👋 Hi, I’m Princewill
+- 👀 I’m a passionate Front end Developer
+- 🌱 I’m a currently learning Reactjs and Javascript and learning how to build APIs
+- 💞️ I’m looking to contribute on OpenSource Projects with other young developers
 - 📫 you can reach me via email: Duruprincewilluzochukwu@gmail.com
 
 <!---
