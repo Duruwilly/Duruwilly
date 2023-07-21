@@ -5,7 +5,6 @@
 - I’m constantly learning and exploring new technologies.
 - 💞️ I’m looking to contribute to OpenSource Projects with other young developers
 - Feel free to explore my repositories to find interesting projects!
-- 📫 you can reach me via email: Duruprincewilluzochukwu@gmail.com
   
 ## Skills 🛠️
 - Programming languages: Python, JavaScript.
