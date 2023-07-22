@@ -1,5 +1,5 @@
 - Hi, I’m Princewill 👋
-- Welcome to my GitHub profile! I'm passionate about [software development, and web development] and I enjoy creating innovative solutions to real-world problems.
+- Welcome to my GitHub profile! I'm passionate about software development, and web development and I enjoy creating innovative solutions to real-world problems.
   
   ## About Me 🧑‍💻
 - I’m constantly learning and exploring new technologies.
