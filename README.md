@@ -15,8 +15,11 @@ If you find any of my projects useful or interesting, consider giving them a sta
 
 ## Let's Connect 🤝
 I'm always open to meeting and collaborating with like-minded individuals. Feel free to reach out to me via:
+
 Email: Duruprincewilluzochukwu@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/princewill4duru
+
 Twitter: https://twitter.com/@PrincewillDuruU
 
 Thanks for visiting my profile! Have a great day! 👍
