@@ -8,7 +8,7 @@
   
 ## Skills 🛠️
 - Programming languages: Python, JavaScript.
-- Frameworks and Libraries: Django, React.js, React Native, Next.js.
+- Frameworks and Libraries: Django, React.js, React Native, Next.js, Node, Express, Nest, MongoDb, Mongoose, Postgress.
 - Tools: Git, VS Code, Postman.
 
 If you find any of my projects useful or interesting, consider giving them a star ⭐️. It's a way to show appreciation and helps others discover the projects too!
